@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Veste en Lin Sable",
+    "price": "129.00",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=500&auto=format&fit=crop",
+    "description": "Une veste légère et respirante, parfaite pour les soirées d'été. Coupe ajustée et finitions faites main."
+  },
+  {
+    "name": "Pantalon Chino Navy",
+    "price": "89.00",
+    "image": "https://images.unsplash.com/photo-1624371414361-e6e0efc8c030?q=80&w=500&auto=format&fit=crop",
+    "description": "Le classique indispensable. Coton stretch pour un confort optimal tout au long de la journée."
+  },
+  {
+    "name": "Chemise Oxford Blanche",
+    "price": "65.00",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c7176c8?q=80&w=500&auto=format&fit=crop",
+    "description": "Chemise 100% coton premium. Col boutonné et texture grainée caractéristique du tissage Oxford."
+  },
+  {
+    "name": "Pull Cachemire Gris",
+    "price": "145.00",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?q=80&w=500&auto=format&fit=crop",
+    "description": "Douceur exceptionnelle pour ce pull col rond en pur cachemire. Un basique luxueux pour votre garde-robe."
+  },
+  {
+    "name": "T-shirt Minimaliste Noir",
+    "price": "35.00",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=500&auto=format&fit=crop",
+    "description": "T-shirt à la coupe parfaite. Coton épais de haute qualité qui ne se déforme pas au lavage."
+  },
+  {
+    "name": "Manteau Laine Anthracite",
+    "price": "210.00",
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=500&auto=format&fit=crop",
+    "description": "Manteau long structuré en laine mélangée. Élégance intemporelle pour affronter le froid."
+  }
+]
