@@ -2,31 +2,50 @@
   {
     "name": "Chemise Oxford Blanche",
     "price": "55.00",
+    "category": "HAUTS",
     "image": "https://raw.githubusercontent.com/Adam01-pm/commerce/main/chemise.jpg",
     "description": "Chemise classique en coton Oxford, idéale pour un look élégant et intemporel. Conçue avec une coupe moderne et des finitions soignées."
   },
   {
     "name": "Pantalon Chino Casual",
     "price": "79.00",
+    "category": "BAS",
     "image": "https://raw.githubusercontent.com/Adam01-pm/commerce/main/pantalon.webp",
     "description": "Pantalon de coupe droite, parfait pour un style quotidien. Tissu confortable et résistant pour toutes les saisons."
   },
   {
     "name": "Veste en Lin Sable",
     "price": "129.00",
+    "category": "HAUTS",
     "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=800&auto=format&fit=crop",
     "description": "Une veste légère et respirante, parfaite pour les soirées d'été. Coupe ajustée et finitions faites main."
   },
   {
+    "name": "Jean Brut Selvedge",
+    "price": "110.00",
+    "category": "BAS",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=800&auto=format&fit=crop",
+    "description": "Jean en denim japonais robuste. Sa toile brute se patinera avec le temps pour devenir une pièce unique."
+  },
+  {
     "name": "Mocassins Cuir Noir",
     "price": "145.00",
+    "category": "ACCESSOIRES",
     "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?q=80&w=800&auto=format&fit=crop",
     "description": "Mocassins classiques confectionnés en cuir de veau italien. Semelle Goodyear pour une durabilité accrue."
   },
   {
-    "name": "Sac de Voyage Cuir",
-    "price": "230.00",
-    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?q=80&w=800&auto=format&fit=crop",
-    "description": "Le compagnon idéal pour vos week-ends. Cuir pleine fleur et doublure en coton épais."
+    "name": "Montre Signature Argent",
+    "price": "195.00",
+    "category": "ACCESSOIRES",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=800&auto=format&fit=crop",
+    "description": "Montre au design épuré avec cadran brossé et bracelet en acier inoxydable. Résistante à l'eau."
+  },
+  {
+    "name": "Sweat Minimaliste Gris",
+    "price": "65.00",
+    "category": "HAUTS",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=800&auto=format&fit=crop",
+    "description": "Un sweat-shirt essentiel en coton organique brossé à l'intérieur pour une douceur maximale."
   }
 ]
